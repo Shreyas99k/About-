@@ -51,6 +51,16 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shreyas99k&theme=tokyonight)
 
 ---
+## ⚡ LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shreyas161124?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/u/shreyas161124/)
+
+🌟 Solving one problem at a time, building strong problem-solving skills.
+
+</div>
+---
 
 ## 📫 Connect With Me
 
